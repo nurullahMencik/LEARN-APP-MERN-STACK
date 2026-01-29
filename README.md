@@ -8,7 +8,7 @@ Bu proje, modern web teknolojilerini kullanarak geliştirilmiş kapsamlı bir e�
 
 * **Canlı Site:** ([https://www.nurullahmencik.com](https://portfolio-udemy-frontend.vercel.app/))
 * **LinkedIn:** (https://www.linkedin.com/in/nurullah-mencik-6b692a216)
-* **Portfolio:** ([http://konyaereglisatis.com/portfolio](https://www.nurullahmencik.com/))
+* **Portfolio:** (https://www.nurullahmencik.com/)
 * **E-posta:** nurullahmencik42@gmail.com
 
 ---
