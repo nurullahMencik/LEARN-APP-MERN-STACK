@@ -6,7 +6,7 @@ Bu proje, modern web teknolojilerini kullanarak geliştirilmiş kapsamlı bir e�
 
 ## 🔗 Bağlantılar
 
-* **Canlı Site:** ([https://www.nurullahmencik.com](https://portfolio-udemy-frontend.vercel.app/))
+* **Canlı Site:** (https://github.com/nurullahMencik/LEARN-APP-MERN-STACK)
 * **LinkedIn:** (https://www.linkedin.com/in/nurullah-mencik-6b692a216)
 * **Portfolio:** (https://www.nurullahmencik.com/)
 * **E-posta:** nurullahmencik42@gmail.com
